@@ -1,0 +1,1 @@
+C:\IdeaProjects\hnh-test\build\classes\kotlin\main\Creature.class;C:\IdeaProjects\hnh-test\build\classes\kotlin\main\Damage.class;C:\IdeaProjects\hnh-test\build\classes\kotlin\main\MainKt.class;C:\IdeaProjects\hnh-test\build\classes\kotlin\main\Monster.class;C:\IdeaProjects\hnh-test\build\classes\kotlin\main\Player.class
